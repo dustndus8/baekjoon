@@ -18,3 +18,10 @@
 - git add .
 - git commit -m "~~"
 - git push origin hw(n)
+
+## 브랜치 삭제
+
+- git push origin --delete <삭제할브랜치이름>
+또는
+- git branch -d <삭제할브랜치이름>
+- git push origin <삭제할브랜치이름>
