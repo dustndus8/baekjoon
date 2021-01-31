@@ -1,7 +1,7 @@
 # Baekjoon
 백준 알고리즘
 
-## 폴더에서 git bash
+## 폴더에서 git bash 할 경우
 
 - 폴더(ex 1단계폴더)에서 txt 파일 만듦
 - 코드 복사해서 넣고 .java 로 저장
@@ -10,7 +10,8 @@
 - git commit -m " ~~~ "
 - git push
 
-##  Intellij 터미널에서 git
+
+##  Intellij 터미널에서 git 할 경우
 
 - git checkout main으로 해서 git branch hw(n) 만들고
 - git checkout hw(n) 하고
@@ -18,6 +19,7 @@
 - git add .
 - git commit -m "~~"
 - git push origin hw(n)
+
 
 ## 브랜치 삭제
 
