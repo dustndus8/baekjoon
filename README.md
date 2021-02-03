@@ -20,6 +20,8 @@
 - git commit -m "~~"
 - git push origin hw(n)
 
+## 브랜치 생성과 동시에 체크아웃
+git branch -b <브랜치명>
 
 ## 브랜치 삭제
 
