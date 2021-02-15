@@ -1,26 +1,28 @@
 # Baekjoon
-백준 알고리즘
+백준 알고리즘 코드
 
-## 폴더에서 git bash 할 경우
+## 폴더에서 git bash 하기
 
-- 폴더(ex 1단계폴더)에서 txt 파일 만듦
-- 코드 복사해서 넣고 .java 로 저장
-- .git 있는 곳에서 git bash 열기
-- git add .
-- git commit -m " ~~~ "
-- git push
+- 1. 폴더(ex 1단계폴더)에서 txt 파일 만들기
+- 2. 코드 복사해서 넣고 .java 로 저장
+- 3. .git 있는 곳에서 git bash 열기
+- 4. git add .
+- 5. git commit -m " ~~~ "
+- 6. git push
 
 
 ##  Intellij 터미널에서 git 할 경우
 
-- git checkout main으로 해서 git branch hw(n) 만들고
-- git checkout hw(n) 하고
-- 폴더 만들고 md파일에 적고
-- git add .
-- git commit -m "~~"
-- git push origin hw(n)
+- 1. git checkout main으로 이동
+- 2. git branch hw(n) 만들기
+- 3. git checkout hw(n)로 이동
+- 4. 폴더 만들고 파일 생성
+- 5. git add .
+- 6. git commit -m "~~"
+- 7. git push origin hw(n)
 
 ## 브랜치 생성과 동시에 체크아웃
+
 git branch -b <브랜치명>
 
 ## 브랜치 삭제
