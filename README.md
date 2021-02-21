@@ -1,15 +1,14 @@
-# Baekjoon
-백준 알고리즘 코드
+# BAEKJOON
+백준 알고리즘
 
-## 폴더에서 git bash 하기
+## 폴더에서 git bash
 
 - 1. 폴더(ex 1단계폴더)에서 txt 파일 만들기
 - 2. 코드 복사해서 넣고 .java 로 저장
 - 3. .git 있는 곳에서 git bash 열기
 - 4. git add .
-- 5. git commit -m " ~~~ "
+- 5. git commit -m "feat: ~"
 - 6. git push
-
 
 ##  Intellij 터미널에서 git 할 경우
 
